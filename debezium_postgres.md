@@ -1,3 +1,4 @@
+```
 {
   "name": "exampledb-connector",
   "config": {
@@ -12,3 +13,4 @@
     "table.include.list": "public.student"
   }
 }
+```
